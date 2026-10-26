@@ -1,0 +1,9 @@
+# nunca versionar arquivos do jogo (copyright)
+*.CPK
+*.cpk
+*.undo
+# lixo
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

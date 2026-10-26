@@ -1,0 +1,85 @@
+================================================================================
+ TRADUÇÃO EM PORTUGUÊS DO BRASIL (PT-BR) - DRAGON'S CROWN PRO (PS4 RECOMP PC)
+================================================================================
+ Versão 1.0 - Tradução por Wender_sky (Steam)
+ https://github.com/WenderSky/dragons-crown-pro-ptbr
+
+ Tradução amadora, pode conter erros. Uso gratuito e não-comercial
+ (veja LICENSE.txt).
+
+Esta tradução é para a versão PC / Steam Deck recompilada de Dragon's Crown Pro
+(github.com/saulob/dragons-crown-pro-pc), jogo versão 1.03 (US).
+
+O que está traduzido:
+  - Diálogos da história, narração do Mestre (Dungeon Master) e cutscenes
+  - Missões da Guilda dos Aventureiros
+  - Nomes, efeitos e descrições de habilidades das 6 classes
+  - Inimigos, chefes, objetos e cenários
+  - Interface (menus, opções, acampamento, pausa, seleção de personagem)
+  - Itens, equipamentos e efeitos mágicos
+  - Orações e bênçãos do Templo, Galeria de Tesouros e tutoriais
+
+Não traduzido: textos desenhados em imagens (logos, alguns títulos) e os
+créditos (nomes de pessoas e empresas).
+
+--------------------------------------------------------------------------------
+ REQUISITO: PYTHON 3
+--------------------------------------------------------------------------------
+O instalador é um script Python (sem bibliotecas extras).
+  - Windows: instale em https://www.python.org/downloads/ e marque
+    "Add python.exe to PATH" na instalação.
+  - Steam Deck / Linux: o python3 já vem instalado.
+
+--------------------------------------------------------------------------------
+ COMO INSTALAR NO WINDOWS
+--------------------------------------------------------------------------------
+1. Feche o jogo e o launcher.
+2. Dê dois cliques em "instalar_traducao_windows.bat".
+   O instalador procura o jogo sozinho. Se não encontrar, ele pede o caminho:
+   arraste a pasta do jogo (a que tem "game\prepared\v1.03") para a janela
+   e tecle Enter. Você também pode arrastar a pasta do jogo direto em cima
+   do .bat.
+3. Abra o jogo normalmente pelo "dcp-loader.exe", com o idioma em English
+   (padrão). O jogo aparecerá em português.
+
+--------------------------------------------------------------------------------
+ COMO INSTALAR NO STEAM DECK / LINUX
+--------------------------------------------------------------------------------
+1. No Modo Desktop, copie a pasta "Traducao_PTBR_Dragons_Crown_Pro" para o Deck.
+2. Abra um terminal nessa pasta e execute:
+     chmod +x instalar_traducao_linux.sh
+     ./instalar_traducao_linux.sh
+   (ou ./instalar_traducao_linux.sh "/caminho/da/pasta/do/jogo")
+
+--------------------------------------------------------------------------------
+ DESINSTALAR
+--------------------------------------------------------------------------------
+Execute "desinstalar_traducao_windows.bat" (ou "desinstalar_traducao_linux.sh").
+O DRACRO_US.CPK volta exatamente ao que era antes da tradução.
+
+--------------------------------------------------------------------------------
+ COMO FUNCIONA / ATUALIZAÇÕES
+--------------------------------------------------------------------------------
+- Os arquivos traduzidos são anexados ao fim do DRACRO_US.CPK e o índice (TOC)
+  passa a apontar para eles. Nenhum dado original é apagado; o índice original
+  fica guardado em "DRACRO_US.CPK.ptbr.undo", ao lado do jogo. Não apague esse
+  arquivo se quiser poder desinstalar.
+- Para instalar uma versão nova da tradução, rode o instalador de novo: ele
+  substitui a anterior sem aumentar o tamanho do jogo.
+- Se você reinstalar ou atualizar o jogo pelo launcher, rode o instalador de
+  novo.
+- Quem instalou a versão anterior desta tradução (que criava
+  "DRACRO_US.CPK.undo"): o instalador novo detecta e converte sozinho.
+
+--------------------------------------------------------------------------------
+ BOTÕES DE XBOX (Controller prompts no launcher)
+--------------------------------------------------------------------------------
+A opção de botões de Xbox do launcher também modifica o DRACRO_US.CPK.
+  - Se a tradução foi instalada ANTES de escolher os botões de Xbox, pode
+    trocar os botões à vontade: a tradução continua.
+  - Se os botões de Xbox já estavam ativos quando a tradução foi instalada,
+    voltar para PlayStation no launcher remove a tradução. Basta rodar o
+    instalador de novo.
+  - Para desinstalar a tradução com os botões de Xbox aplicados depois dela,
+    volte antes os botões para PlayStation no launcher (o desinstalador avisa).
+================================================================================

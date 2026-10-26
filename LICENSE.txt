@@ -1,0 +1,41 @@
+LICENÇA DE USO — Tradução PT-BR de Dragon's Crown Pro (Recomp PC)
+=================================================================
+
+Autor: Wender_sky (Steam)
+Versão: 1.0
+
+Esta é uma tradução de fã, feita SEM FINS LUCRATIVOS e SEM qualquer
+afiliação com a Atlus, a Vanillaware ou a Sega. Aplica-se apenas aos
+textos traduzidos e às ferramentas/instalador deste pacote — NÃO aos
+arquivos originais do jogo, que continuam sendo propriedade de seus
+detentores de direitos.
+
+VOCÊ PODE:
+  - Baixar, instalar e usar esta tradução gratuitamente.
+  - Compartilhar e redistribuir este pacote gratuitamente, desde que:
+      * mantenha os créditos ao autor (Wender_sky);
+      * mantenha este arquivo de licença junto;
+      * não altere a atribuição de autoria.
+
+VOCÊ NÃO PODE:
+  - Vender, cobrar, monetizar, pedir doação obrigatória, colocar atrás
+    de paywall, anúncios com muros, encurtadores pagos, ou lucrar de
+    QUALQUER forma com esta tradução ou com sua distribuição.
+  - Distribuir os arquivos originais do jogo (DRACRO_US.CPK, DRACRO.CPK
+    ou quaisquer outros). Distribua APENAS o patch e o instalador.
+  - Reivindicar a autoria da tradução como sua.
+
+Dragon's Crown e nomes relacionados são marcas registradas da Atlus,
+Vanillaware e Sega. Este projeto é não-oficial e não substitui a compra
+do jogo original.
+
+EXCEÇÃO — FERRAMENTAS: os scripts da pasta ferramentas/ não seguem as
+restrições acima. O cpk.py vem do projeto dragons-crown-pro-pc
+(github.com/saulob/dragons-crown-pro-pc), licenciado sob a GNU GPL v2, e o
+patcher.py, que o usa, é distribuído sob a mesma GPL v2. O texto da
+licença está em ferramentas/LICENSE-GPL-2.0.txt. As restrições acima
+valem para a tradução (os textos em arquivos_traducao/).
+
+O software é fornecido "como está", sem garantias. O autor não se
+responsabiliza por qualquer dano decorrente do uso (embora o instalador
+confira o resultado e guarde um registro para desfazer).
