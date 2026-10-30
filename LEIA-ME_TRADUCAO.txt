@@ -1,7 +1,7 @@
 ================================================================================
  TRADUÇÃO EM PORTUGUÊS DO BRASIL (PT-BR) - DRAGON'S CROWN PRO (PS4 RECOMP PC)
 ================================================================================
- Versão 1.0 - Tradução por Wender_sky (Steam)
+ Versão 1.1 - Tradução por Wender_sky (Steam)
  https://github.com/WenderSky/dragons-crown-pro-ptbr
 
  Tradução amadora, pode conter erros. Uso gratuito e não-comercial
